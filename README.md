@@ -31,6 +31,7 @@ Pro plan, built to stay connected on hotel, airport, campus and office Wi-Fi tha
 - `logo/` — logo files
 - `screenshots/` — real app renders: `connect.png` (Android, connected), `locations.png`, `protection.png`, `pro.png`
   (Android, Pro), `win.png` (Windows), `mac-protection.png` (Mac), `tv.png` (Android TV)
+- Large, for articles: `screenshots/windows-hd.png` (2080×1560), `screenshots/mac-hd.png` (1600×1200), `screenshots/tv-hd.png` (1920×1080)
 - Promo video (Play listing): https://www.youtube.com/watch?v=chKX0BwB3rc
 
 ## What we ask
